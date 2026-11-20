@@ -2,6 +2,8 @@
 
 Eleven classic editor palettes for the Code tab of the Claude desktop app: Rosé Pine, Gruvbox, Tokyo Night, Nord, Catppuccin, Kanagawa, Solarized, Ayu, Everforest, Flexoki and Monokai, each with a light and a dark variant. The 20 animated backdrops of Anthropic's `theme-examples` come along, and a palette and a backdrop can be combined.
 
+![The /custom-theme card, trying Gruvbox](images/hero.png)
+
 ## Install
 
 At the prompt of a terminal session:
@@ -34,6 +36,12 @@ Needs a Claude Code build with mods (function-hook plugins) and the desktop app'
 - `/custom-theme nord` applies a palette or a backdrop by name; add `session` as the last word to keep it to this session (`/custom-theme rose pine session`).
 - `/custom-theme list` names them all; `/custom-theme off` removes everything.
 - `/fireworks` is kept from `theme-examples`.
+
+![The same window in Solarized, Rosé Pine, Nord and Catppuccin](images/palettes.png)
+
+Further down the card are the animated backdrops, each with its light or dark twin:
+
+![The animated backdrops on the card](images/backdrops.png)
 
 The mod stores only the names you pick, per project and per session.
 
