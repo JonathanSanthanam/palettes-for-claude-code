@@ -1,0 +1,13 @@
+{
+  "name": "palettes-for-claude-code",
+  "description": "Eleven light and dark editor palettes, plus animated backdrops, for the Code tab of the Claude desktop app.",
+  "owner": {
+    "name": "JonathanSanthanam"
+  },
+  "plugins": [
+    {
+      "name": "palettes-for-claude-code",
+      "source": "./"
+    }
+  ]
+}

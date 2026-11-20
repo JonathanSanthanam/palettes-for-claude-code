@@ -1,0 +1,11 @@
+palettes-for-claude-code
+Copyright 2026 JonathanSanthanam
+
+This product is a modified version of "theme-examples" by Anthropic,
+licensed under the Apache License, Version 2.0.
+
+Changes made in 2026:
+- added eleven light and dark colour palettes (hooks/palettes.ts);
+- palette and backdrop are chosen together and applied in one theme;
+- the /custom-theme card lists palettes with colour swatches;
+- the plugin was renamed palettes-for-claude-code.

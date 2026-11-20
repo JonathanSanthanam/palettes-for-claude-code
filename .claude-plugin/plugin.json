@@ -1,0 +1,8 @@
+{
+  "name": "palettes-for-claude-code",
+  "version": "0.1.0",
+  "description": "Eleven classic editor palettes (Rosé Pine, Gruvbox, Tokyo Night, Nord, Catppuccin, Kanagawa, Solarized, Ayu, Everforest, Flexoki, Monokai), light and dark, plus 20 animated backdrops, for the Code tab of the Claude desktop app. /custom-theme opens a card to pick one. A modified copy of Anthropic's theme-examples (Apache-2.0).",
+  "author": { "name": "JonathanSanthanam" },
+  "license": "Apache-2.0",
+  "types": "./types/index.d.ts"
+}
